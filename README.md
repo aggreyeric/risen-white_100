@@ -17,6 +17,8 @@
 
 **risen** is a clean, fast, fully on-chain Stellar dApp built for the *Stellar Frontend Challenge — Level 1*. It connects to the [Freighter](https://www.freighter.app/) browser wallet, reads a live XLM balance straight from Horizon, and lets you send native XLM payments on **Testnet** — returning a real transaction hash with a one-click link to the on-chain explorer. Everything targets Testnet, so no real funds are ever involved.
 
+> 🌐 **Live at [risen-wallet.sabiedu.online](https://risen-wallet.sabiedu.online)**
+
 > ⚡ **No Freighter installed?** risen ships with a built-in **Demo Mode** (an in-browser mock wallet backed by a *real* Friendbot-funded Testnet account) so you can preview the entire UI — connect, balance, send, and a genuine on-chain transaction — without ever installing the extension.
 
 ---
