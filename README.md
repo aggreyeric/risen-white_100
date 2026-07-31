@@ -59,8 +59,8 @@
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd risen
+git clone https://github.com/aggreyeric/risen-white_100.git
+cd risen-white_100
 
 # 2. Install dependencies
 npm install
