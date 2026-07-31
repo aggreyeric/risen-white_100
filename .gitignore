@@ -36,3 +36,6 @@ server*.log
 
 # Vercel
 .vercel
+  
+preview-*.log 
+tsconfig.tsbuildinfo 
